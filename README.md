@@ -1,5 +1,5 @@
 # Wine-Classifier
-Using a random forest classifier to model wine quality with 94% accuracy. 
+Using a random forest classifier to model wine quality with over 90% accuracy. 
 
 Using UCI's wine quality dataset, found here: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
